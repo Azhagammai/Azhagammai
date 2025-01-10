@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/75cd2761-f0f7-45ff-b20c-8eb7be4dacfb)## Hi there 👋 I'm Azhagammai
+## Hi there 👋 I'm Azhagammai
 
 Artificial Intelligence and Data Science Student
 <img align="right" width="370" height="290" src=https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif>
