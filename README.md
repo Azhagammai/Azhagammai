@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Azhagammai
+## Hi there 👋 I'm Azhagammai
 
 Artificial Intelligence and Data Science Student
 <img align="right" width="370" height="290" src=https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif>
