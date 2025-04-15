@@ -4,10 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=6A54F7&center=true&vCenter=true&random=false&width=435&lines=AI+and+DS+Student;Web+Developer;Data+Analyst" alt="Typing SVG" />
 </div>
 
-<!-- Borderless table for About Me + GIF -->
-<table>
+<table width="100%">
   <tr>
-    <td width="100%" style="border:none !important;">
+    <td width="60%" style="border:none !important;" valign="top">
       <h2>🚀 About Me</h2>
       <ul style="list-style-type:none; padding-left:0;">
         <li>🔭 Currently working on AI/ML projects</li>
@@ -27,7 +26,7 @@
         </a>
       </p>
     </td>
-    <td width="100%" style="border:none !important;" align="right">
+    <td width="40%" style="border:none !important;" align="right" valign="top">
       <img width="300" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif" alt="Data Analytics GIF">
     </td>
   </tr>
@@ -36,12 +35,14 @@
 <hr>
 
 ## 🏆 GitHub Stats
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Azhagammai&show_icons=true&theme=radical&hide_border=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Azhagammai&theme=radical&hide_border=true" />
-  <br>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azhagammai&layout=compact&theme=radical&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Azhagammai&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azhagammai&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azhagammai&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ## 📊 LeetCode Tracker
 <p align="center">
