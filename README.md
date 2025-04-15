@@ -1,26 +1,84 @@
-## Hi there 👋 I'm Azhagammai
+# Hi there 👋 I'm Azhagammai
 
-Artificial Intelligence and Data Science Student
-<img align="right" width="370" height="290" src=https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif>
-- 🌱 I’m currently learning DSA
-- 👯 I’m looking for Offline / Online Internship
-- 💬 Ask me about Tech
-- 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/azhagammai-m/ )
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=6A54F7&center=true&vCenter=true&random=false&width=435&lines=AI+and+DS+Student;Web+Developer;Data+Analyst" alt="Typing SVG" />
 
-### I code in
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="react" alt="react" width="40" height="40" />&nbsp;
+<img align="right" width="300" height="200" src=https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif>
+</div>
 
-### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>
+## 🚀 About Me
+- 🔭 Currently working on AI/ML projects
+- 🌱 Learning Data Structures & Algorithms
+- 👯 Looking for internship opportunities
+- 📫 How to reach me: 
+ <br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azhagammai-m/)
+ <br>[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://azhagammaiportfolio.vercel.app/)
+ <br>[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/azhagammai055/)
+
+<hr>
+
+
+## 🏆 GitHub Stats
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Azhagammai&show_icons=true&theme=radical" /> 
+</div>
+<div align="center">
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Azhagammai&theme=radical" />
+</div>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azhagammai&layout=compact&theme=radical" />
+</div>
+<br>
+## 💻 LeetCode Progress
+<hr>
+<div align="center">
+[![LeetCode Stats](https://leetcard.jacoblin.cool/azhagammai055?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/azhagammai055/)
+</div>
+
+## 🛠️ Tech Stack
+<hr> 
+
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+<hr> 
+
+### Web Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+<hr> 
+
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+<hr> 
+
+### Tools & IDEs
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+<hr>
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Azhagammai&color=blueviolet&style=flat-square" alt="Profile views" />
+</div>
+
 
