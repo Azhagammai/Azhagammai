@@ -14,7 +14,6 @@
  <br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azhagammai-m/)
  <br>[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://azhagammaiportfolio.vercel.app/)
  <br>[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/azhagammai055/)
-
  <img align="right" width="300" height="200" src=https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif>
 <div>
 
