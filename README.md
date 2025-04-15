@@ -5,8 +5,8 @@
 </div>
 
 <table width="100%">
-  <tr>
-    <td width="60%" style="border:none !important;" valign="top">
+  <tr width="100%">
+    <td width="100%" style="border:none !important;" valign="top">
       <h2>🚀 About Me</h2>
       <ul style="list-style-type:none; padding-left:0;">
         <li>🔭 Currently working on AI/ML projects</li>
@@ -26,7 +26,7 @@
         </a>
       </p>
     </td>
-    <td width="40%" style="border:none !important;" align="right" valign="top">
+    <td width="100%" style="border:none !important;" align="right" valign="top">
       <img width="300" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif" alt="Data Analytics GIF">
     </td>
   </tr>
