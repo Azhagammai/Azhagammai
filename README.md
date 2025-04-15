@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=6A54F7&center=true&vCenter=true&random=false&width=435&lines=AI+and+DS+Student;Web+Developer;Data+Analyst" alt="Typing SVG" />
 </div>
-<table>
+<table align="center">
   <tr>
     <td width="60%" valign="top">
       <h2>🚀 About Me</h2>
@@ -25,7 +25,7 @@
         </a>
       </p>
     </td>
-    <td width="100%" align="right" valign="top">
+    <td width="100%" align="right" valign="center" padding-top=10%>
       <img width="300" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif" alt="Data Science GIF">
     </td>
   </tr>
