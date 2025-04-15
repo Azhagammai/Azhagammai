@@ -8,7 +8,7 @@
     <td width="60%" valign="top">
       <h2>🚀 About Me</h2>
       <ul style="list-style-type: none; padding-left: 0;">
-        <li>🔭 Currently working on AI/ML projects</li>
+        <li>🔭 Currently working on projects</li>
         <li>🌱 Learning Data Structures & Algorithms</li>
         <li>👯 Looking for internship opportunities</li>
         <li>📫 How to reach me:</li>
@@ -25,7 +25,7 @@
         </a>
       </p>
     </td>
-    <td width="40%" align="right" valign="top">
+    <td width="100%" align="right" valign="top">
       <img width="300" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif" alt="Data Science GIF">
     </td>
   </tr>
