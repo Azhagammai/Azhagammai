@@ -5,7 +5,8 @@
 
 </div>
 <div>
-## 🚀 About Me
+
+ ## 🚀 About Me
 - 🔭 Currently working on AI/ML projects
 - 🌱 Learning Data Structures & Algorithms
 - 👯 Looking for internship opportunities
@@ -15,10 +16,7 @@
  <br>[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/azhagammai055/)
 
  <img align="right" width="300" height="200" src=https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif>
- <br>
- <br>
-
- <div>
+<div>
 
 <hr>
 
