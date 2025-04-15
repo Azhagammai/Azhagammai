@@ -5,9 +5,10 @@
 </div>
 
 <!-- About Me + GIF Side-by-Side -->
-<table>
+<table >
   <tr>
     <td width="60%" align="left">
+      
       ## 🚀 About Me
       - 🔭 Currently working on AI/ML projects
       - 🌱 Learning Data Structures & Algorithms
