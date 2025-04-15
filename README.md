@@ -36,15 +36,23 @@
 
 
 ## 🏆 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azhagammai&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azhagammai&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azhagammai&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Azhagammai&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azhagammai&theme=radical&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azhagammai&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 📊 LeetCode Tracker
 <p align="center">
