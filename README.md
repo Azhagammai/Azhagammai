@@ -7,7 +7,7 @@
 <!-- Borderless table for About Me + GIF -->
 <table>
   <tr>
-    <td width="60%" style="border:none !important;">
+    <td width="100%" style="border:none !important;">
       <h2>🚀 About Me</h2>
       <ul style="list-style-type:none; padding-left:0;">
         <li>🔭 Currently working on AI/ML projects</li>
@@ -44,10 +44,12 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azhagammai&layout=compact&theme=radical&hide_border=true" />
 </div>
 
-## 💻 LeetCode Progress
-<div align="center">
-  [![LeetCode Stats](https://leetcard.jacoblin.cool/azhagammai055?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/azhagammai055/)
-</div>
+## 📊 LeetCode Tracker
+<p align="center">
+  <a href="https://leetcode.com/u/azhagammai055/">
+    <img src="https://leetcard.jacoblin.cool/azhagammai055?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
 
 ## 🛠️ Tech Stack
 ### Programming Languages
