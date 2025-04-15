@@ -39,6 +39,7 @@
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Azhagammai&show_icons=true&theme=radical&hide_border=true" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Azhagammai&theme=radical&hide_border=true" />
+  <br>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azhagammai&layout=compact&theme=radical&hide_border=true" />
 </div>
 
