@@ -37,11 +37,12 @@
 
 ## 🏆 GitHub Stats
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azhagammai&show_icons=true&theme=radical" alt="GitHub Stats" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Azhagammai&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+<div align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azhagammai&theme=radical" alt="GitHub Streak" />
 </div>
-
-<div align="right">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azhagammai&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
