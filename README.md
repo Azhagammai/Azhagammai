@@ -6,7 +6,7 @@
 </div>
 
 <br>
-<hr>
+
 ## 🚀 About Me
 - 🔭 Currently working on AI/ML projects
 - 🌱 Learning Data Structures & Algorithms
