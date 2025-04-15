@@ -3,12 +3,11 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=6A54F7&center=true&vCenter=true&random=false&width=435&lines=AI+and+DS+Student;Web+Developer;Data+Analyst" alt="Typing SVG" />
 </div>
-
-<table width="100%">
-  <tr width="100%">
-    <td width="100%" style="border:none !important;" valign="top">
+<table>
+  <tr>
+    <td width="60%" valign="top">
       <h2>🚀 About Me</h2>
-      <ul style="list-style-type:none; padding-left:0;">
+      <ul style="list-style-type: none; padding-left: 0;">
         <li>🔭 Currently working on AI/ML projects</li>
         <li>🌱 Learning Data Structures & Algorithms</li>
         <li>👯 Looking for internship opportunities</li>
@@ -26,11 +25,13 @@
         </a>
       </p>
     </td>
-    <td width="100%" style="border:none !important;" align="right" valign="top">
-      <img width="300" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif" alt="Data Analytics GIF">
+    <td width="40%" align="right" valign="top">
+      <img width="300" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif" alt="Data Science GIF">
     </td>
   </tr>
 </table>
+
+<hr>
 
 <hr>
 
