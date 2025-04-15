@@ -27,7 +27,7 @@
         </a>
       </p>
     </td>
-    <td width="40%" style="border:none !important;" align="right">
+    <td width="100%" style="border:none !important;" align="right">
       <img width="300" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif" alt="Data Analytics GIF">
     </td>
   </tr>
@@ -39,8 +39,6 @@
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Azhagammai&show_icons=true&theme=radical&hide_border=true" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Azhagammai&theme=radical&hide_border=true" />
-</div>
-<div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azhagammai&layout=compact&theme=radical&hide_border=true" />
 </div>
 
