@@ -1,10 +1,12 @@
 # Hi there 👋 I'm Azhagammai
 
-<div align="left">
+<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=6A54F7&center=true&vCenter=true&random=false&width=435&lines=AI+and+DS+Student;Web+Developer;Data+Analyst" alt="Typing SVG" />
 <img align="right" width="200" height="100" src=https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif>
 </div>
 
+<br>
+<hr>
 ## 🚀 About Me
 - 🔭 Currently working on AI/ML projects
 - 🌱 Learning Data Structures & Algorithms
