@@ -4,22 +4,31 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=6A54F7&center=true&vCenter=true&random=false&width=435&lines=AI+and+DS+Student;Web+Developer;Data+Analyst" alt="Typing SVG" />
 </div>
 
-<!-- About Me + GIF Side-by-Side -->
-<table >
+<!-- Borderless table for About Me + GIF -->
+<table>
   <tr>
-    <td width="60%" align="left">
-      
-      ## 🚀 About Me
-      - 🔭 Currently working on AI/ML projects
-      - 🌱 Learning Data Structures & Algorithms
-      - 👯 Looking for internship opportunities
-      - 📫 How to reach me: 
-      <br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azhagammai-m/)
-      <br> [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://azhagammaiportfolio.vercel.app/)
-      <br> [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/azhagammai055/)
+    <td width="60%" style="border:none !important;">
+      <h2>🚀 About Me</h2>
+      <ul style="list-style-type:none; padding-left:0;">
+        <li>🔭 Currently working on AI/ML projects</li>
+        <li>🌱 Learning Data Structures & Algorithms</li>
+        <li>👯 Looking for internship opportunities</li>
+        <li>📫 How to reach me:</li>
+      </ul>
+      <p>
+        <a href="https://www.linkedin.com/in/azhagammai-m/">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a><br>
+        <a href="https://azhagammaiportfolio.vercel.app/">
+          <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+        </a><br>
+        <a href="https://leetcode.com/u/azhagammai055/">
+          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+        </a>
+      </p>
     </td>
-    <td width="40%" align="right">
-      <img width="300" height="200" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
+    <td width="40%" style="border:none !important;" align="right">
+      <img width="300" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif" alt="Data Analytics GIF">
     </td>
   </tr>
 </table>
@@ -28,11 +37,11 @@
 
 ## 🏆 GitHub Stats
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Azhagammai&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Azhagammai&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Azhagammai&show_icons=true&theme=radical&hide_border=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Azhagammai&theme=radical&hide_border=true" />
 </div>
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azhagammai&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azhagammai&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ## 💻 LeetCode Progress
@@ -42,7 +51,7 @@
 
 ## 🛠️ Tech Stack
 ### Programming Languages
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -50,20 +59,20 @@
 </p>
 
 ### Web Development
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 ### Databases
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ### Tools & IDEs
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
