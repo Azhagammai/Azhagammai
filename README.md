@@ -43,7 +43,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=Azhagammai&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azhagammai&theme=radical&hide_border=true" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azhagammai&theme=radical&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
