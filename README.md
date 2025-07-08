@@ -26,7 +26,8 @@
         </a>
       </p>
     <td width="100%" align="right" valign="middle" style="padding-top: 10%;">
-    ![software_girl_preview](https://github.com/user-attachments/assets/ba1f649e-3bf0-446c-876e-1f269b058d5a)
+    ![software_girl_preview](https://github.com/user-attachments/assets/ba1f649e-3bf0-446c-876e-1f269b058d5a)![software_girl_preview](https://github.com/user-attachments/assets/8de52131-7adc-4309-a132-3cbcdb27dc45)
+
 </td>
   </tr>
 </table>
