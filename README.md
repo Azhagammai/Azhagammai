@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Azhagammai
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=6A54F7&center=true&vCenter=true&random=false&width=435&lines=AI+and+DS+Student;Web+Developer;Data+Analyst" alt="Typing SVG" />
+  <img src=https://cdnl.iconscout.com/lottie/premium/thumb/female-developer-working-on-web-development-animation-download-in-lottie-json-gif-static-svg-file-formats--software-programming-business-website-design-app-pack-animations-3938556.mp4/>
 </div>
 <table align="center">
   <tr>
