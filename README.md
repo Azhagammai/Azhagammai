@@ -26,10 +26,16 @@
       </p>
     </td>
     <td width="100%" align="right" valign="center" padding-top=10%>
-      <img width="300" src="https://cdnl.iconscout.com/lottie/premium/thumb/female-developer-working-on-web-development-animation-download-in-lottie-json-gif-static-svg-file-formats--software-programming-business-website-design-app-pack-animations-3938556.mp4" alt="Software Developer">
+      <img width="300" src="https://github.com/user-attachments/assets/53e210ae-fa1a-4b19-ad3d-f8bb28184e5d" alt="Software Developer">
     </td>
   </tr>
 </table>
+
+
+
+
+
+
 
 <hr>
 
