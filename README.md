@@ -1,4 +1,4 @@
-![software_girl_preview](https://github.com/user-attachments/assets/ba1f649e-3bf0-446c-876e-1f269b058d5a)
+
 # Hi there 👋 I'm Azhagammai
 
 <div align="center">
@@ -26,7 +26,7 @@
         </a>
       </p>
     <td width="100%" align="right" valign="middle" style="padding-top: 10%;">
-  <img src="https://github.com/user-attachments/assets/652ac34b-e95b-4628-b89d-9d46b2fd3c4f/software_girl_preview.gif" alt="Software Girl Preview" width="250">
+    ![software_girl_preview](https://github.com/user-attachments/assets/ba1f649e-3bf0-446c-876e-1f269b058d5a)
 </td>
   </tr>
 </table>
