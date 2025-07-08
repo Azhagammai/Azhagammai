@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Azhagammai
 
 <div align="center">
-  <img src=https://cdnl.iconscout.com/lottie/premium/thumb/female-developer-working-on-web-development-animation-download-in-lottie-json-gif-static-svg-file-formats--software-programming-business-website-design-app-pack-animations-3938556.mp4/>
+ 
 </div>
 <table align="center">
   <tr>
