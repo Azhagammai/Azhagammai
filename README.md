@@ -1,5 +1,3 @@
-![software_girl_preview](https://github.com/user-attachments/assets/9148bab1-fd5d-44b2-8c36-69159a78218d)
-
 # Hi there 👋 I'm Azhagammai
 
 <div align="center">
@@ -26,9 +24,9 @@
           <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
         </a>
       </p>
-
+<td>
 ![software_girl_preview](https://github.com/user-attachments/assets/47d12bd2-50ac-4e68-869b-05269e546ef8)
-
+</td>
 
   </tr>
 </table>
