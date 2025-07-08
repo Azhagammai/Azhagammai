@@ -26,7 +26,7 @@
       </p>
     </td>
     <td width="100%" align="right" valign="center" padding-top=10%>
-      <img width="300" src="https://github.com/user-attachments/assets/53e210ae-fa1a-4b19-ad3d-f8bb28184e5d" alt="Software Developer">
+      <img width="200" src="https://github.com/user-attachments/assets/53e210ae-fa1a-4b19-ad3d-f8bb28184e5d" alt="Software Developer">
     </td>
   </tr>
 </table>
