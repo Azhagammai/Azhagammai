@@ -26,7 +26,7 @@
       </p>
     </td>
     <td width="100%" align="right" valign="center" padding-top=10%>
-      <img width="300" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif" alt="Data Science GIF">
+      <img width="300" src="https://cdnl.iconscout.com/lottie/premium/thumb/female-developer-working-on-web-development-animation-download-in-lottie-json-gif-static-svg-file-formats--software-programming-business-website-design-app-pack-animations-3938556.mp4" alt="Software Developer">
     </td>
   </tr>
 </table>
