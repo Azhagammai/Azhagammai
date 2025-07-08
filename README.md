@@ -25,7 +25,9 @@
         </a>
       </p>
 <td>
-![software_girl_preview](https://github.com/user-attachments/assets/47d12bd2-50ac-4e68-869b-05269e546ef8)
+
+ ![software_girl_preview](https://github.com/user-attachments/assets/47d12bd2-50ac-4e68-869b-05269e546ef8)
+
 </td>
 
   </tr>
