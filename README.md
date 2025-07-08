@@ -7,12 +7,12 @@
   <tr>
     <td width="60%" valign="top">
       <h2>🚀 About Me</h2>
-      <ul style="list-style-type: none; padding-left: 0;">
-        <li>🔭 Currently working on projects</li>
-        <li>🌱 Learning Data Structures & Algorithms</li>
-        <li>👯 Looking for internship opportunities</li>
-        <li>📫 How to reach me:</li>
-      </ul>
+    <ul style="list-style-type: none; padding-left: 0;">
+  <li>🔭 Currently working on modern web apps using <strong>React</strong>, <strong>Tailwind CSS</strong>, and <strong>MongoDB</strong>.</li>
+  <li>🎓 Learning deeply about <strong>system design</strong>, <strong>API architecture</strong>, and <strong>performance engineering</strong>.</li>
+  <li>🌱 Passionate about <strong>open-source collaboration</strong> and building projects that solve real-world problems.</li>
+  <li>💡 Interested in blending <strong>tech, design, and community</strong> to build meaningful digital experiences.</li>
+</ul>
       <p>
         <a href="https://www.linkedin.com/in/azhagammai-m/">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -24,8 +24,10 @@
           <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
         </a>
       </p>
-<td>
+     
+<td style="padding: 10px;">
 
+ 
  ![software_girl_preview](https://github.com/user-attachments/assets/47d12bd2-50ac-4e68-869b-05269e546ef8)
 
 </td>
