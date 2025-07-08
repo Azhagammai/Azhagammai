@@ -24,11 +24,9 @@
           <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
         </a>
       </p>
-    </td>
-    <td width="100%" align="right" valign="center" padding-top=10%>
-     ![Software Girl Preview](https://github.com/your-username/your-repo-name/blob/main/software_girl_preview.gif?raw=true)
-
-    </td>
+    <td width="100%" align="right" valign="middle" style="padding-top: 10%;">
+  <img src="https://github.com/user-attachments/assets/652ac34b-e95b-4628-b89d-9d46b2fd3c4f/software_girl_preview.gif" alt="Software Girl Preview" width="250">
+</td>
   </tr>
 </table>
 
