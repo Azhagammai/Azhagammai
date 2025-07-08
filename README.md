@@ -1,3 +1,4 @@
+![software_girl_preview](https://github.com/user-attachments/assets/ba1f649e-3bf0-446c-876e-1f269b058d5a)
 # Hi there 👋 I'm Azhagammai
 
 <div align="center">
