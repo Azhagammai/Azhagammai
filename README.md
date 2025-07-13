@@ -91,17 +91,15 @@
 </p>
 
 ---
-
-### 🔧 Backend Development & Deployment
+<!--### 🔧 Backend Development & Deployment
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-00ADD8?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+</p>-->
 
----
 
 ### 🧰 Tools & Platforms
 <p>
