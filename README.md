@@ -8,7 +8,6 @@
     <td width="60%" valign="top">
       <h2>🚀 About Me</h2>
     <ul style="list-style-type: none; padding-left: 0;">
-  <li>🔭 Currently working on modern web apps using <strong>React</strong>, <strong>Tailwind CSS</strong>, and <strong>MongoDB</strong>.</li>
   <li>🎓 Learning deeply about <strong>system design</strong>, <strong>API architecture</strong>, and <strong>performance engineering</strong>.</li>
   <li>🌱 Passionate about <strong>open-source collaboration</strong> and building projects that solve real-world problems.</li>
   <li>💡 Interested in blending <strong>tech, design, and community</strong> to build meaningful digital experiences.</li>
@@ -91,18 +90,19 @@
 </p>
 
 ---
-<!--### 🔧 Backend Development & Deployment
+### 🔧 Backend Development & Deployment
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-00ADD8?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>-->
+</p>
 
 
 ### 🧰 Tools & Platforms
 <p>
+  <img src="https://bunnyacademy.b-cdn.net/what-is-docker.png"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
