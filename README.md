@@ -6,7 +6,8 @@
 <table align="center">
   <tr>
     <td width="60%" valign="top">
-      <h2>🚀 About Me</h2>
+      <h2>🚀 About Me</h2>![Uploading logo-guide-logos-1.svg…]()
+
     <ul style="list-style-type: none; padding-left: 0;">
   <li>🎓 Learning deeply about <strong>system design</strong>, <strong>API architecture</strong>, and <strong>performance engineering</strong>.</li>
   <li>🌱 Passionate about <strong>open-source collaboration</strong> and building projects that solve real-world problems.</li>
@@ -102,8 +103,8 @@
 
 ### 🧰 Tools & Platforms
 <p>
-  <img src="https://bunnyacademy.b-cdn.net/what-is-docker.png](https://icon2.cleanpng.com/20180802/apk/060b63ade17983b778877ddd17068696.webp"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  ![images](https://github.com/user-attachments/assets/4a2b0fa1-3962-4281-9904-9e8db2b5987f)
+ <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
