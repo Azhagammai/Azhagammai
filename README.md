@@ -103,10 +103,12 @@
 
 ### 🧰 Tools & Platforms
 <p>
-  
- ![images](https://github.com/user-attachments/assets/2b168066-d11a-44ce-be66-a2afafd2ca00)
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img width="48" height="37" alt="docker_icon-removebg-preview" src="https://github.com/user-attachments/assets/6312c9d6-2444-46f6-be01-ecde38af2224" />
+  <img width="48" height="37" alt="docker_icon-removebg-preview" src="https://github.com/user-attachments/assets/c8d434b5-18ce-4d7f-9aef-bb2c106ab617" />
+  <img width="48" height="37" alt="aws" src="https://github.com/user-attachments/assets/d45c713c-b17f-4230-a047-e64f24e7bb1e" />
+  <img width="241" height="209" alt="kuber-removebg-preview" src="https://github.com/user-attachments/assets/e055ae0c-b065-4bee-9400-68d1764b6e27" />
+  <img width="48" height="37" alt="anisble-removebg-preview" src="https://github.com/user-attachments/assets/1b6281bb-8738-4a95-8213-11f75c7ada0d" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
