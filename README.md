@@ -6,9 +6,8 @@
 <table align="center">
   <tr>
     <td width="60%" valign="top">
-      <h2>🚀 About Me</h2>![Uploading logo-guide-logos-1.svg…]()
-
-    <ul style="list-style-type: none; padding-left: 0;">
+      <h2>🚀 About Me</h2>
+<ul style="list-style-type: none; padding-left: 0;">
   <li>🎓 Learning deeply about <strong>system design</strong>, <strong>API architecture</strong>, and <strong>performance engineering</strong>.</li>
   <li>🌱 Passionate about <strong>open-source collaboration</strong> and building projects that solve real-world problems.</li>
   <li>💡 Interested in blending <strong>tech, design, and community</strong> to build meaningful digital experiences.</li>
@@ -103,11 +102,10 @@
 
 ### 🧰 Tools & Platforms
 <p>
-  <img width="48" height="37" alt="docker_icon-removebg-preview" src="https://github.com/user-attachments/assets/6312c9d6-2444-46f6-be01-ecde38af2224" />
   <img width="48" height="37" alt="docker_icon-removebg-preview" src="https://github.com/user-attachments/assets/c8d434b5-18ce-4d7f-9aef-bb2c106ab617" />
   <img width="48" height="37" alt="aws" src="https://github.com/user-attachments/assets/d45c713c-b17f-4230-a047-e64f24e7bb1e" />
-  <img width="241" height="209" alt="kuber-removebg-preview" src="https://github.com/user-attachments/assets/e055ae0c-b065-4bee-9400-68d1764b6e27" />
-  <img width="48" height="37" alt="anisble-removebg-preview" src="https://github.com/user-attachments/assets/1b6281bb-8738-4a95-8213-11f75c7ada0d" />
+  <img width="48" height="37" alt="kuber-removebg-preview" src="https://github.com/user-attachments/assets/e055ae0c-b065-4bee-9400-68d1764b6e27" />
+  <img width="48" height="37" alt="anisble" src="https://github.com/user-attachments/assets/f45d9f47-5099-478b-8262-dcb54aa7a971" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
