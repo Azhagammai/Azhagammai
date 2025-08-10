@@ -102,7 +102,7 @@
 
 ### 🧰 Tools & Platforms
 <p>
-  <img src="https://bunnyacademy.b-cdn.net/what-is-docker.png"/>
+  <img src="https://bunnyacademy.b-cdn.net/what-is-docker.png](https://icon2.cleanpng.com/20180802/apk/060b63ade17983b778877ddd17068696.webp"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
