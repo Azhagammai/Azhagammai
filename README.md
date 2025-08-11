@@ -62,8 +62,8 @@
 
 ## 📊 LeetCode Tracker
 <p align="center">
-  <a href="https://leetcode.com/u/azhagammai055/">
-    <img src="https://leetcard.jacoblin.cool/azhagammai055?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/azhagammai/">
+    <img src="https://leetcard.jacoblin.cool/azhagammai?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
 
