@@ -92,6 +92,7 @@
 ---
 ### 🔧 Backend Development & Deployment
 <p>
+  <img width="48" height="37" alt="1_d2zLEjERsrs1Rzk_95QU9A" src="https://github.com/user-attachments/assets/8fc57c75-ca23-41c3-b3f0-1f8ea71963b1" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-00ADD8?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
