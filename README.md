@@ -121,6 +121,13 @@
 </p>
 
 ---
+<!-- GITHUB ACTIVITY -->
+<h2 align="center">📈 GitHub Activity</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azhagammai&bg_color=141321&color=ff9dd2&line=ff70a6&point=f4a3c2&area=true&hide_border=true&custom_title=Azhagammai's%20Contribution%20Graph" alt="GitHub Activity Graph" />
+</div>
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Azhagammai&color=blueviolet&style=flat-square" alt="Profile views" />
