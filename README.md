@@ -83,7 +83,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
@@ -104,17 +104,17 @@
 <p>
   <img width="48" height="37" alt="docker_icon-removebg-preview" src="https://github.com/user-attachments/assets/c8d434b5-18ce-4d7f-9aef-bb2c106ab617" />
   <img width="48" height="37" alt="aws" src="https://github.com/user-attachments/assets/d45c713c-b17f-4230-a047-e64f24e7bb1e" />
-  <img width="48" height="37" alt="kuber-removebg-preview" src="https://github.com/user-attachments/assets/e055ae0c-b065-4bee-9400-68d1764b6e27" />
-  <img width="48" height="37" alt="anisble" src="https://github.com/user-attachments/assets/f45d9f47-5099-478b-8262-dcb54aa7a971" />
+  <!-- <img width="48" height="37" alt="kuber-removebg-preview" src="https://github.com/user-attachments/assets/e055ae0c-b065-4bee-9400-68d1764b6e27" />
+  <img width="48" height="37" alt="anisble" src="https://github.com/user-attachments/assets/f45d9f47-5099-478b-8262-dcb54aa7a971" /> -->
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img width="48 height="37" alt="tabkeau" src="https://github.com/user-attachments/assets/a18054f1-1b59-497c-83ff-85576617595a" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  
+  <!-- <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+   -->
 
   
 
