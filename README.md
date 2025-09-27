@@ -127,10 +127,21 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azhagammai&bg_color=141321&color=ff9dd2&line=ff70a6&point=f4a3c2&area=true&hide_border=true&custom_title=Azhagammai's%20Contribution%20Graph" alt="GitHub Activity Graph" />
 </div>
----
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Azhagammai&color=blueviolet&style=flat-square" alt="Profile views" />
+</div>
+
+<!-- FOOTER -->
+<div align="center">
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,33,44,55&height=120&section=footer" width="100%" alt="Footer" />
 </div>
 
 
