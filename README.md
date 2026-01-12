@@ -7,7 +7,7 @@
     <td width="500" height="300" valign="top">
       <h2>🚀 My Data Dream</h2>
 <ul style="list-style-type: none; padding-left: 0;">
-  <li>🎯 My ultimate goal is to master the <strong>data ecosystem</strong> — from <strong>data engineering</strong> to <strong>data analysis</strong> and <strong>data science</strong>.</li>
+  <li>🎯 My ultimate goal is to master the <strong>data ecosystem</strong>
   <li>📊 I aim to design reliable <strong>data pipelines</strong>, create meaningful <strong>insights</strong>, and develop <strong>AI-driven solutions</strong> for real-world problems.</li>
   <li>💡 I believe in the power of <strong>data + creativity</strong> to transform raw information into impactful decisions.</li>
 </ul>
