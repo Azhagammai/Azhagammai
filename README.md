@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Azhagammai
+<!-- # Hi there 👋 I'm Azhagammai
 
 
 
@@ -152,9 +152,7 @@
 
 </p>
 
--->
----
-<!-- GITHUB ACTIVITY -->
+
 <h2 align="center">📈 GitHub Activity</h2>
 
 <div align="center">
@@ -171,13 +169,14 @@
   <img src="https://komarev.com/ghpvc/?username=Azhagammai&color=blueviolet&style=flat-square" alt="Profile views" />
 </div>
 
-<!-- FOOTER -->
+
 <div align="center">
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,33,44,55&height=120&section=footer" width="100%" alt="Footer" />
 </div>
 
 
+-->
 
 
 
